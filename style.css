@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 :root{
-  --orange:rgb(251, 218, 32);
-  --violet:#da8e00;
+  --orange:rgb(8, 19, 164);
+  --violet:#caa110;
 }
 
 *{
@@ -16,7 +16,7 @@
 
 *::selection{
   background:var(--orange);
-  color:#fff;
+  color:#e9e8e8;
 }
 
 html{
@@ -35,7 +35,7 @@ html{
 }
 .headingc{
   font-size: 4rem;
-  color:white;
+  color:rgb(224, 223, 223);
   text-align: center;
   padding:0 1rem;
   padding-top: 6rem;
